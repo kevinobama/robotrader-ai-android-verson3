@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Robotrader-ai-android</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="desc">desc</string>
+    <string name="user_hint">user_hint</string>
+    <string name="regist">regist</string>
+
+    <string name="password_hint">password_hint</string>
+    <string name="find">find</string>
+    <string name="remember">remember</string>
+    <string name="login">login</string>
+    <string name="submit">submit</string>
+
+
+
+</resources>
